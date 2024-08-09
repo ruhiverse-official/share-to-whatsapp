@@ -1,6 +1,6 @@
 {
   "name": "share-to-whatsapp",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The share-to-whatsapp plugin allows you to easily share images and PDF files directly to a specified WhatsApp number from your Ionic/Capacitor application.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
