@@ -2,6 +2,11 @@
 
 The share-to-whatsapp plugin allows you to easily share images and PDF files directly to a specified WhatsApp number from your Ionic/Capacitor application.
 
+## Requirements
+
+- Capacitor 8.0.0 or higher
+- iOS 13+ / Android API 22+
+
 ## Install
 
 ```bash
